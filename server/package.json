@@ -13,8 +13,8 @@
     "Node.JS",
     "Server"
   ],
-  "homepage": "https://github.com/deemacauses/workouts-project-server",
-  "author": "deemacauses <deemacauses@outlook.com>",
+  "homepage": "",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "5.0.1",
